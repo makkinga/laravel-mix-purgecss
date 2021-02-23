@@ -27,7 +27,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 
 ## Installation
 
-Before you get started, make sure you're using `laravel-mix` version 5.0.0 or higher.
+Before you get started, make sure you're using `laravel-mix` version 6.0.0 or higher.
 
 You can install the package with yarn or npm:
 
